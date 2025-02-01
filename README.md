@@ -9,7 +9,7 @@ Une application simple et élégante pour afficher la météo d'une ville, réal
 
 Voici à quoi ressemble l'application :
 
-![Aperçu de l'application météo](https://github.com/ton_utilisateur/m-to/blob/main/preview.png?raw=true)
+![Aperçu de l'application météo](./public/img.png)
 
 ## Fonctionnalités 🚀
 
@@ -82,7 +82,7 @@ Tu souhaites personnaliser ce projet ? Voici quelques idées :
 
 ## Auteurs ✍️
 
-- **Ton Nom** - *Développeur principal* - [Ton GitHub](https://github.com/ton_utilisateur)
+- **Martial De-Paul** - *Développeur principal* - [Ton GitHub](https://github.com/Martialdepaul)
 
 ## Licence 📝
 
@@ -92,19 +92,3 @@ Ce projet est sous la licence **MIT**. Pour plus d'informations, consulte le fic
 
 Merci d'avoir visité ce projet ! N'hésite pas à contribuer ou à poser des questions. 🚀
 ```
-
-### Ce que ce `README.md` comprend :
-1. **Badges de statut** : Affiche l'état et la version du projet avec des badges visuels.
-2. **Aperçu visuel du projet** : Une image d'aperçu de ton application (assure-toi que l'URL de l'image est correcte).
-3. **Fonctionnalités** : Liste les fonctionnalités de ton projet avec des émojis pour rendre le tout plus visuel et lisible.
-4. **Technologies utilisées** : Présente les technologies de manière claire.
-5. **Installation et lancement** : Instructions détaillées pour cloner et installer le projet en local.
-6. **Déploiement** : Guide pour construire et déployer le projet sur GitHub Pages.
-7. **Personnalisation** : Suggestions pour améliorer et personnaliser le projet.
-8. **Auteurs et Licence** : Donne crédit au créateur du projet et précise la licence.
-
-### Quelques points importants :
-- L'image d'aperçu (`preview.png`) doit être présente dans ton repository, ou tu peux la lier à partir d'une autre source si nécessaire.
-- Le badge de version et de statut peut être personnalisé selon tes préférences.
-  
-Tu peux ajuster les sections selon les besoins spécifiques de ton projet !
