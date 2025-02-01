@@ -1,0 +1,62 @@
+@import "tailwindcss";
+
+/* Effet de pluie */
+.rain-effect {
+  position: relative;
+  overflow: hidden;
+}
+
+.rain-effect::after {
+  content: "";
+  position: absolute;
+  top: -100%;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: url("https://www.transparenttextures.com/patterns/diagonal-stripes-light.png")
+    repeat top left;
+  animation: rainAnimation 1.5s linear infinite;
+}
+
+@keyframes rainAnimation {
+  to {
+    top: 100%;
+  }
+}
+
+.snow-effect {
+  position: relative;
+  overflow: hidden;
+}
+
+.snow-effect::before {
+  content: "";
+  position: absolute;
+  top: -100%;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: url("https://www.transparenttextures.com/patterns/snow.png")
+    repeat top left;
+  animation: snowAnimation 3s linear infinite;
+}
+
+@keyframes snowAnimation {
+  to {
+    top: 100%;
+  }
+}
+
+.transition-all {
+  transition: all 0.5s ease-in-out;
+}
+
+body {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  background-size: cover;
+  background-position: center;
+}
